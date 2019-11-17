@@ -1,0 +1,56 @@
+
+h1 {
+	color: #568aa3;
+	font-size: 30px;
+	margin-left: 80px;
+	background-color: white;
+	padding: 20px;
+}
+
+
+h5 {
+	color: #363534;
+	font-family: "Times New Roman", Times, serif;
+	background-color: white;
+}
+
+h4 {
+	color: #363534;
+	font-family: "Times New Roman", Times, serif;
+	background-color: white;
+	margin-left: 14px;
+	padding-top: 20px;
+	padding-bottom: 150px;
+}
+
+<img src="main.jpeg" alt="Trinity">
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+a {
+	color: #99b0c2;
+	text-decoration: none;
+	background-color: white;
+}
+
+body{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 14px;
+	color: #363534;
+	background-color: white;
+	background-image: url("background2.png");
+
+}
+
+
+h3 {
+	font-size: 20px;
+	color: #99b0c2;
+	background-color: white;
+	margin-left: 14px;
+}
